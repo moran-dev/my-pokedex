@@ -1,0 +1,27 @@
+{
+  "name": "14-desafio-final",
+  "version": "1.0.0",
+  "description": "Projeto Final",
+  "main": "db.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.4.0",
+    "mongoose": "^5.8.1",
+    "require-dir": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/vitormoran/14-desafio-final.git"
+  },
+  "author": "VitorMoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/vitormoran/14-desafio-final/issues"
+  },
+  "homepage": "https://gitlab.com/vitormoran/14-desafio-final#readme"
+}

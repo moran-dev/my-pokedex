@@ -1,0 +1,20 @@
+{
+    "Rodadas": [
+        {
+            "Rodada": "Final"
+        },
+        {
+            "Rodada": "Semi-Final"
+        },
+        {
+            "Rodada": "Quartas-de-Final"
+        },
+        {
+            "Rodada": "Oitavas-de-Final"
+        },
+        {
+            "Rodada": "Preliminares"
+        }
+        
+    ]
+}

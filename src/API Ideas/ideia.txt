@@ -1,0 +1,8 @@
+Pokemon: Montar um API para montagem de torneios pokemons,
+ por meio de cadastro do treinador, seus pokemons que vai utilizar,
+  contendo numero maximo 6 por partida e x reservas, podendo haver trocas de pokemons antes da partida, 
+  terá cadastro do treinador(nome, cidade natal, especialidade, insignias, etc...) 
+  cadastro do pokemon(nome, tipo, etc), cadastro do tipos de campo para a batalha. 
+  Torneio ( Rodada, Partida, Campo).
+A API montará as chaves de torneio e definir o tipo de campo que ocorrera a batalha e os
+ treinadores que batalharão na respectiva rodada.

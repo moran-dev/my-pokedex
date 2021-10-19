@@ -1,0 +1,19 @@
+{
+    "Campos": [
+        {
+            "campo": "Fogo"
+        },
+        {
+            "campo": "Agua"
+        },
+        {
+            "campo": "Terra"
+        },
+        {
+            "campo": "Grama"
+        },
+        {
+            "campo": "Coliseu"
+        }
+    ]
+}
