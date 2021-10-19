@@ -1,14 +1,12 @@
-
-
-interface Campos {
-    tipo: string[];
+interface Campo {
+    tipo: [];
 }
 
 
-interface Pokemon{
+interface Pokemon {
     name: string;
     pokemonId: any;
-    tipo: string;
+    type: string;
 
 }
 
